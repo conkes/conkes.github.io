@@ -1,0 +1,1 @@
+as its named, can be used to see what kinds of software make up a target website to further research targeted exploits against this target.
