@@ -1,4 +1,0 @@
-cl /LD /Fe:payload.dll payload.cpp kernel32.lib
-
-
-cl /Fe:reflective_loader_v2.exe /O2 /EHsc reflective_loader_v2.cpp kernel32.lib
